@@ -1,5 +1,5 @@
-#Blog Post
-##my first blog post
-* post1
-* post2
-* post3
+# Blog Post
+## My first Blog Post
+* Post1
+* Post2
+* Post3
