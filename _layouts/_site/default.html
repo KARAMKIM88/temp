@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+me/mmtask/Documents/yejin_karam/temp/_config.yml' 
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
 
@@ -30,7 +31,7 @@
    <header class="site-category">
    <ul>
     
-    {% assign pages_list = site.pages %}
+{% assign pages_list = site.pages %}
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "category" %}
@@ -38,7 +39,7 @@
           href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
         {% endif %}
       {% endif %}
-    {% endfor %}
+{% endfor %}
     
     </ul>
     </header>

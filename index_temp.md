@@ -5,7 +5,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[블로그의 주인장들 보러 가기](./about.html).
+[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 

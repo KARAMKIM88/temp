@@ -3,4 +3,4 @@ description: ML, RL, DNN, Visual Servoing
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-
+baseurl: /temp
